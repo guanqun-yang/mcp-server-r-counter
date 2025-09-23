@@ -7,7 +7,7 @@ dependencies = [
 ]
 
 [project.scripts]
-mcp-server-calculator = "mcp_server_r_counter:main"
+mcp-server-r-counter = "mcp_server_r_counter:main"
 
 [build-system]
 requires = ["hatchling"]
