@@ -9,7 +9,7 @@ COPY . .
 RUN pip install --no-cache-dir -e .
 
 # Set environment variables for HTTP transport
-ENV MCP_TRANSPORT=sse
+ENV MCP_TRANSPORT=streamable-http
 ENV HOST=0.0.0.0
 ENV PORT=8000
 
