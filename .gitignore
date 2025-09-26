@@ -1,2 +1,6 @@
 .idea/
 __pycache__/
+/.mcpregistry_registry_token
+/.mcpregistry_github_token
+/.claude/
+/dist/

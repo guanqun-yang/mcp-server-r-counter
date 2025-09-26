@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that counts the number of 'r' characters in a given query.
 
+mcp-name: io.github.guanqun-yang/mcp-server-r-counter
+
 ## Installation
 
 ```bash
